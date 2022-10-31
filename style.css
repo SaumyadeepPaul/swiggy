@@ -1,0 +1,235 @@
+.img2{
+    width: 100%;
+    height: 19.55cm;
+    top: 0cm;
+    left: 0cm;
+    bottom: 0cm;
+    position: absolute;
+    height: 19.93cm;
+}
+
+.login{
+   position: absolute;
+   top: 1.3cm;
+   left: 15.5cm;
+   background-color: black;
+   color: white;
+   font-weight: 790;
+   border-width: 10px;
+}
+
+.signup{
+    position: absolute;
+    top: 1.3cm;
+    left: 17.9cm;
+    font-weight: 790;
+    background-color: black;
+    color: white;
+    border-width: 10px;
+}
+
+.login:hover{
+    box-shadow: 1px 1px 4px rgb(30, 29, 29);
+    cursor: grab;
+}
+
+.signup:hover{
+    cursor: grab;
+    box-shadow: 1px 1px 4px rgb(30, 29, 29);
+}
+
+h2{
+    position: absolute;
+    top: 6cm;
+    left: 4.8cm;
+}
+
+h1{
+    position: absolute;
+    top: 4.7cm;
+    left: 4.8cm;
+}
+
+input{
+    position: absolute;
+    top: 8.2cm;
+    left: 4.8cm;
+    font-weight: 800;
+    opacity: 95%;
+    width: 11.8cm;
+    height: 1.3cm;
+}
+
+input:hover{
+    border-color: rgb(255, 119, 0);
+}
+
+.findfood{
+    position: absolute;
+    top: 8.2cm;
+    left: 16.7cm;
+    width: 3.5cm;
+    height: 1.45cm;
+    background-color: rgb(255, 119, 0);
+    border: transparent;
+    color: white;
+}
+
+.findfood:hover{
+    cursor: grab;
+    background-color: black;
+}
+
+.locate{
+    position: absolute;
+    top: 8.5cm;
+    left: 14.4cm;
+    background-color: white;
+    border: transparent;
+    height: 0.9cm;
+}
+
+.locate:hover{
+    background-color: rgb(255, 119, 0);
+    cursor: grab;
+}
+
+.popular-cities{
+    position: absolute;
+    top: 10cm;
+    left: 4.8cm;
+}
+
+.cities{
+    position: absolute;
+    top: 11.5cm;
+    left: 4.8cm;
+    
+}
+
+.one{
+    background-color: white;
+    border: transparent;
+    
+}
+
+.two{
+    background-color: white;
+    border: transparent;
+    
+}
+
+.three{
+    background-color: white;
+    border: transparent;;
+    
+}
+
+.four{
+    background-color: white;
+    border: transparent;;
+    
+}
+
+.five{
+    background-color: white;
+    border: transparent;
+    
+}
+
+.six{
+    background-color: white;
+    border: transparent;
+    
+}
+
+.seven{
+    background-color: white;
+    border: transparent;
+    
+}
+
+.eight{
+    background-color: white;
+    border: transparent;
+    
+}
+
+.nine{
+    background-color: white;
+    border: transparent;
+    
+}
+
+.ten{
+    background-color: white;
+    border: transparent;
+    
+}
+
+.one:hover{
+    background-color: rgb(226,118, 36);
+    cursor: grab;
+}
+
+.two:hover{
+    background-color: rgb(226,118, 36);
+    cursor: grab;
+    
+}
+
+.three:hover{
+    background-color: rgb(226,118, 36);
+    cursor: grab;
+    
+}
+
+.four:hover{
+    background-color: rgb(226,118, 36);
+    cursor: grab;
+    
+}
+
+.five:hover{
+    background-color:rgb(226,118, 36);
+    cursor: grab;
+    
+}
+
+.six:hover{
+    background-color: rgb(226,118, 36);
+    cursor: grab;
+    
+}
+
+.seven:hover{
+    background-color: rgb(226,118, 36);
+    cursor: grab;
+    
+}
+
+.eight:hover{
+    background-color: rgb(226,118, 36);
+    cursor: grab;
+    
+}
+
+.nine:hover{
+    
+    background-color: rgb(226,118, 36);
+    cursor: grab;
+    
+}
+
+.ten:hover{
+    background-color: rgb(226,118, 36);
+    cursor: grab;
+        
+}
+
+.img1{
+    position: absolute;
+    width: 4cm;
+    top: 1.3cm;
+    left: 4.7cm;
+}
